@@ -1,0 +1,13 @@
+
+body{
+    margin: 0;
+}
+.container{
+    margin:0;
+    padding:20px;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    background: rgb(217, 231, 231);
+    border-radius: 10px;
+}
